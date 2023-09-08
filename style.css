@@ -1,0 +1,118 @@
+body {
+  overflow: hidden;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='760' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1353%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient1354%26quot%3b)'%3e%3c/rect%3e%3cpath d='M784.7007344750483 274.45953140008504L737.1364337537337 188.65126145274263 698.8924645277059 322.02383212139955z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M390.28%2c396.109C420.967%2c394.689%2c447.035%2c377.911%2c464.448%2c352.603C485.235%2c322.391%2c507.195%2c284.627%2c488.819%2c252.891C470.461%2c221.187%2c426.884%2c223.014%2c390.28%2c224.514C357.184%2c225.871%2c322.711%2c232.566%2c304.806%2c260.434C285.563%2c290.384%2c284.213%2c329.945%2c303.188%2c360.065C321.137%2c388.556%2c356.642%2c397.666%2c390.28%2c396.109' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M189.417%2c334.223C232.714%2c337.16%2c278.393%2c319.445%2c298.631%2c281.056C317.933%2c244.442%2c300.142%2c201.793%2c277.496%2c167.148C257.385%2c136.38%2c226.098%2c116.348%2c189.417%2c113.969C147.527%2c111.253%2c99.578%2c117.664%2c79.049%2c154.28C58.772%2c190.445%2c81.493%2c232.452%2c103.17%2c267.795C123.505%2c300.949%2c150.613%2c331.59%2c189.417%2c334.223' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M414.31843082833353 440.13626656152894L375.32152620890764 559.7683403134749 483.29377792383013 538.7806606468328z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M349.748%2c328.898C380.401%2c328.919%2c411.815%2c319.841%2c428.061%2c293.847C445.203%2c266.42%2c444.51%2c231.267%2c428.234%2c203.318C412.061%2c175.547%2c381.868%2c160.426%2c349.748%2c159.37C315.466%2c158.243%2c279.028%2c168.195%2c261.787%2c197.848C244.477%2c227.62%2c252.431%2c265.144%2c271.623%2c293.738C288.681%2c319.152%2c319.14%2c328.877%2c349.748%2c328.898' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M429.9005431536894 93.36695182673071L311.488522723538 146.08738000757455 364.2089509043818 264.49940043772597 482.62097133453324 211.77897225688213z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M88.64613964316106 64.97906926719398L10.54862451348103 119.6635380764428 143.33060845240988 143.076584396874z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M927.534%2c609.25C968.821%2c612.531%2c1013.599%2c602.51%2c1035.669%2c567.463C1058.908%2c530.559%2c1052.538%2c483.217%2c1030.652%2c445.496C1008.853%2c407.926%2c970.962%2c380.274%2c927.534%2c381.091C885.299%2c381.885%2c849.158%2c411.149%2c830.922%2c449.252C814.86%2c482.811%2c826.337%2c520.506%2c845.568%2c552.355C863.994%2c582.87%2c891.999%2c606.426%2c927.534%2c609.25' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1318.198%2c657.448C1367.106%2c656.988%2c1420.588%2c648.406%2c1445.095%2c606.079C1469.638%2c563.69%2c1452.134%2c512.028%2c1426.594%2c470.233C1402.371%2c430.593%2c1364.635%2c399.69%2c1318.198%2c398.414C1269.604%2c397.079%2c1224.706%2c422.739%2c1198.971%2c463.98C1171.545%2c507.932%2c1159.922%2c564.399%2c1187.102%2c608.504C1213.331%2c651.065%2c1268.206%2c657.918%2c1318.198%2c657.448' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M699.2916310113369 436.78891213959514L587.8009102505807 523.895009758848 786.3977286305898 548.2796329003513z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1309.8087363035543 222.4230136742101L1387.761407054893 290.3167736351586 1406.5493728381625 201.92634411533675z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M149.39564510874075 207.29987148102515L225.5560929686839 133.75258189839852 77.1549346647724 56.28555489979709z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1148.8911333365086 257.00434341539545L1083.0569553020357 181.2707848891746 1073.1575748102878 322.83852144986827z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M290.921%2c97.607C321.422%2c97.198%2c350.604%2c82.961%2c365.747%2c56.481C380.789%2c30.177%2c377.315%2c-1.624%2c362.915%2c-28.285C347.659%2c-56.531%2c322.987%2c-80.518%2c290.921%2c-82.057C256.377%2c-83.715%2c222.716%2c-66.028%2c205.875%2c-35.821C189.419%2c-6.304%2c194.374%2c30.038%2c212.538%2c58.535C229.356%2c84.921%2c259.634%2c98.026%2c290.921%2c97.607' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M794.8643796658223 264.5268038620457L815.4080519520918 158.83877209893984 709.7200201889859 138.2950998126703 689.1763479027164 243.98313157577618z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M604.4922417136413 170.61061199039227L655.1282175556356 302.521838936471 787.0394445017143 251.8858630944767 736.40346865972 119.97463614839793z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1247.5050565746515 237.3052920003609L1251.1913348342812 307.64367134135523 1354.8557647159578 266.9450642814135z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M846.264%2c503.15C868.687%2c503.582%2c892.879%2c496.732%2c903.266%2c476.856C913.17%2c457.905%2c902.593%2c436.048%2c890.572%2c418.364C880.318%2c403.279%2c864.447%2c394.443%2c846.264%2c393C824.57%2c391.278%2c799.724%2c391.985%2c787.833%2c410.211C775.198%2c429.577%2c780.635%2c455.155%2c792.942%2c474.731C804.432%2c493.006%2c824.681%2c502.734%2c846.264%2c503.15' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1481.2737135566535 249.29116974681173L1420.8760978203993 174.70632581261486 1406.6888696224567 309.6887854830659z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1353'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='139.29%25' x2='84.72%25' y2='-39.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1354'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(220%2c 20%2c 20%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  display: flex;
+  justify-content: center;
+}
+
+#tetris {
+  width: 350px;
+  border: 2px solid rgb(251, 251, 251);
+  border-radius: 20px;
+  padding: 50px;
+  background-color: rgba(220, 20, 60, 0.358);
+  margin-top: 70px;
+}
+
+
+#canvas {
+  width: 200px;
+  height: 445px;
+  background-color: #403232;
+  position: relative;
+  border-radius: 5px;
+}
+
+
+/* .piece {
+  border: 1px solid yellow;
+  position: absolute;
+} */
+
+#start{
+  animation: blink .7s steps(2, start) infinite;
+  background: crimson;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-style: italic;
+  font-size: 25px;
+}
+
+#start:hover{
+  color: #000;
+}
+
+@keyframes blink {
+  to {
+  outline: crimson solid 1px;
+  }
+}
+
+.crimson{
+  color: crimson;
+  font-style: italic;
+}
+
+.square {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  border: 1px solid white;
+}
+
+.type0 {
+  background-color: purple;
+  border-radius: 5px;
+}
+
+.type1 {
+  background-color: skyblue;
+  border-radius: 5px;
+}
+
+.type2 {
+  background-color: #f0a000;
+  border-radius: 5px;
+}
+
+.type3 {
+  background-color: blue;
+  border-radius: 5px;
+}
+
+.type4 {
+  background-color: yellowgreen;
+  border-radius: 5px;
+}
+
+.type5 {
+  background-color: crimson;
+  border-radius: 5px;
+}
+
+.type6 {
+  background-color: #f0f000;
+  border-radius: 5px;
+}
+
+
+#next_shape {
+  position: relative;
+  background-color: #000;
+  border: 1px solid white;
+  border-radius: 10px;
+  width: 110px;
+  height: 110px;
+}
+
+
+#info {
+  background-color: #403232;
+  border-radius: 5px;
+  color: crimson;
+  float: right;
+  width: 110px;
+  height: 425px;
+  padding: 10px;
+}
